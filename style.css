@@ -20,6 +20,7 @@ h2{
     font-size:5vmin;
     color:rgb(224, 49, 49);
     height:7.5vh;
+    text-transform:capitalize;
 }
 p,a{
     font-size:4vmin;
